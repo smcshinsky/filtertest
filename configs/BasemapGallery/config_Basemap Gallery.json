@@ -1,0 +1,220 @@
+{
+  "basemapGallery": {
+    "basemaps": [
+      {
+        "layers": [
+          {
+            "id": "2013_Aerials_wgs84_countywide_9363",
+            "layerType": "ArcGISMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://maps2.utahcountyonline.org/arcgiswebadaptor/rest/services/Imagery_Services/2013_Aerials_wgs84_countywide/MapServer",
+            "itemId": "7f9e613fb8d5465a98dc700ec08f6f74"
+          }
+        ],
+        "title": "2013 County Imagery",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/441a1c1b3b404c69a63d91993c4d7e7b/info/thumbnail/ago_downloaded.png",
+        "spatialReference": {
+          "wkid": 102100
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "World_Imagery_2017",
+            "visibility": true,
+            "opacity": 1,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"
+          }
+        ],
+        "title": "Imagery",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/86de95d4e0244cba80f0fa2c9403a7b2/info/thumbnail/tempimagery.jpg",
+        "spatialReference": {
+          "wkid": "102100"
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "layer0",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://gispublicweb.provo.org/arcgis/rest/services/Imagery/Imagery_2006/MapServer",
+            "itemId": "8b4042976f3a41e7a451067fe393ef30"
+          }
+        ],
+        "title": "Imagery 2006",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/aa7608cd48a44b27876f6026908d0f01/info/thumbnail/ago_downloaded.png",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "Imagery_2009_9972",
+            "layerType": "ArcGISMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://gispublicweb.provo.org/arcgis/rest/services/Imagery/Imagery_2009/MapServer",
+            "itemId": "f978d8da5b6f41e7939de5afe78b6756"
+          }
+        ],
+        "title": "Imagery 2009",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/cb00ef8b19c946b6b6c23d7a3cd8cac2/info/thumbnail/2009.png",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "Imagery_2011_5487",
+            "layerType": "ArcGISMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://gispublicweb.provo.org/arcgis/rest/services/Imagery/Imagery_2011/MapServer",
+            "itemId": "c16009ad7a464b4fa7da4ed07da0cc18"
+          }
+        ],
+        "title": "Imagery 2011 NAIP",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/1966552b68ac4a0fafb877087e7aa7bc/info/thumbnail/2011.png",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "Imagery_2012_720",
+            "layerType": "ArcGISMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://gispublicweb.provo.org/arcgis/rest/services/Imagery/Imagery_2012/MapServer",
+            "itemId": "c25ef7bc64a941719f814c68e5dac18c"
+          }
+        ],
+        "title": "Imagery 2012",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/437bf67ba9be4c2882b500fdcbc0b7c4/info/thumbnail/2012.png",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "World_Light_Gray_Base_1486",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer"
+          },
+          {
+            "id": "World_Light_Gray_Reference_8656",
+            "isReference": true,
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer"
+          }
+        ],
+        "title": "Light Gray Canvas",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/8b3b470883a744aeb60e5fff0a319ce7/info/thumbnail/light_gray_canvas.jpg",
+        "spatialReference": {
+          "wkid": "102100"
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "NatGeo_World_Map_2536",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer"
+          }
+        ],
+        "title": "National Geographic",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/509e2d6b034246d692a461724ae2d62c/info/thumbnail/natgeo.jpg",
+        "spatialReference": {
+          "wkid": "102100"
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "Basemap2_51",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://gispublicweb.provo.org/arcgis/rest/services/Basemap2/MapServer",
+            "itemId": "513b21ab129e44dbbb2942d3325393b5"
+          }
+        ],
+        "title": "Provo Basemap",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/140e086ae73244d89fa283ddf0d7a4af/info/thumbnail/base.png",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "World_Street_Map_8421",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer"
+          }
+        ],
+        "title": "Streets",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/d8855ee4d3d74413babfb0f41203b168/info/thumbnail/world_street_map.jpg",
+        "spatialReference": {
+          "wkid": "102100"
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "World_Terrain_Base_3",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer"
+          },
+          {
+            "id": "World_Reference_Overlay_5790",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "isReference": true,
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Reference_Overlay/MapServer"
+          }
+        ],
+        "title": "Terrain with Labels",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/aab054ab883c4a4094c72e949566ad40/info/thumbnail/terrain_labels.jpg",
+        "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
+        }
+      },
+      {
+        "layers": [
+          {
+            "id": "defaultBasemap",
+            "opacity": 1,
+            "visibility": true,
+            "url": "http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer"
+          }
+        ],
+        "title": "Topographic",
+        "thumbnailUrl": "//provo.maps.arcgis.com/sharing/rest/content/items/6e03e8c26aad4b9c92a87c1063ddb0e3/info/thumbnail/topo_map_2.jpg",
+        "spatialReference": {
+          "wkid": "102100"
+        }
+      }
+    ]
+  }
+}

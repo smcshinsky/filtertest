@@ -1,0 +1,17 @@
+.definition_query h3{
+    color: orange;
+}
+
+      #buttons {
+        background: #fff;
+        left: 1em;
+        padding: 0.5em;
+        top: 1em;
+        z-index: 40;
+      }
+	  
+.crimeImage {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
