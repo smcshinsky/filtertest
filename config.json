@@ -84,7 +84,7 @@
             "openAtStart":true,
             "label":"Local Layer Widget Filter",
             "version":"0.1",
-            "uri":"widgets/LocalLayer_filter/Widget",
+            "uri":"widgets/localLayer_filter/Widget",
             "config":"configs/LocalLayer_filter/config_Local Layer Widget Filter.json"
          },
          {  
