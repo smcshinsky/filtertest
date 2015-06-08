@@ -91,7 +91,7 @@ var
   //////Replace the following line with the jsapi you prefer after download the app,
   //////including the comment
 
-  //apiUrl=[POINT_TO_ARCGIS_API_FOR_JAVASCRIPT];
+  apiUrl = "//js.arcgis.com/3.13";
 
   //////////////////////////////////////////////////////////////
   allCookies = getAllCookies();
